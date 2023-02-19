@@ -22,15 +22,15 @@ int main(void)
 
 	if (l > 5)
 	{
-		printf("%d and is greather than 5\n", l);
+		printf("Last digit of %d is %d and is greather than 5\n", n,l);
 	}
 	else if (l == 0)
 	{
-		printf("%d and is 0\n", l);
+		printf("Last digit of %d is %d and is greather than 5\n", n,l);
 	}
 	else
 	{
-		printf("%d and is less 6 and 0\n", l);
+		printf("Last digit of %d is %d and is greather than 5\n", n,l);
 	}
 	return (0);
 }
