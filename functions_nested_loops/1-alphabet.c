@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * main - Print the alphabet  in upercase.
+ *  print_alphabet - Print the alphabet  in upercase.
  *
  * Return: Send when the programe succes
  */
-int main(void)
+void print_alphabet(void)
 {
 	char n;
 
@@ -13,5 +13,4 @@ int main(void)
 		_putchar(n);
 	}
 	_putchar('\n');
-	return (0);
 }
