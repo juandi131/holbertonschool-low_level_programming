@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- *print_numbers
- *@c: variable
+ *print_numbers- muchas gracias palermo
+ *
  *Return:dassadsasdad
  */
 void print_numbers(void)
