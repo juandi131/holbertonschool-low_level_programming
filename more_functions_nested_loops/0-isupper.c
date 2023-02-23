@@ -6,9 +6,8 @@
  * Return: La haces muy bien
  */
 
-int _isupper(int c) {
-	int c;
-
+int _supper(int c)
+{
 	if (c >= 65 && c <= 90)
 	{
 		return (1);
