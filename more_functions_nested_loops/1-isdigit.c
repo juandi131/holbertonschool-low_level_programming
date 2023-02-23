@@ -8,12 +8,11 @@
 
 int _isdigit(int c)
 {
-	for (c = 0; c <= 9; c++)
+	char c;
+	if (c <= 9)
 	{
-		if (c >= 0 && c <= 9)
-		{
-			return (1);
-		}
+		return (1);
 	}
-	return (0);
+	else (c >= 32 && c <= 126) 
+		return (0);
 }
