@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _isupper- Me escape del mundo yedome al norte
- *
- * Return: La haces muy bien
+ *_isupper- Me escape del mundo yedome al norte. 10
+ *@c: variable
+ *Return: La haces muy bien
  */
 
 int _isupper(int c)
