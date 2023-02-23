@@ -1,17 +1,21 @@
 #include "main.h"
 
 /**
- * _isdigit- esto es un digito 
- *
- *Return: 0 y 1 
+ *_isdigit- esto es un digito
+ *@c: variable
+ *Return: 0 y 1
  */
 
 int _isdigit(int c)
 {
-	if (c >= 0 && c <= 9)
+	for (c = 0; c <= 9; c++)
 	{
-		return (1);
+		if (c >= 0 && c <= 9)
+		{
+			return (1);
+		}
+	else
+			return (0);
+
 	}
-	else 
-		return (0);
 }
