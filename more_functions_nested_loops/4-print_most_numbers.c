@@ -1,9 +1,10 @@
 #include "main.h"
- /**
-  *print_most_numbers- Muchas gracias Palermo
-  *
-  *Return: fsfsdfsdfsdfsfsfsfsdf
-  */
+
+/**
+ * print_most_numbers- Muchas gracias Palermo
+ *
+ * Return: iiiiiiiiiiii
+ */
 
 void print_most_numbers(void)
 {
