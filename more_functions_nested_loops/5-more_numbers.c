@@ -10,12 +10,12 @@ void more_numbers(void)
 	int i;
 	int u;
 	int n;
+	int p;
 
-	for (i = 0; i <= 9; i++)
+	for (p = 0; p <= 9; i++)
 	{
 		for (i = 0; i <= 14 ; i++)
 		{
-
 				if (i >  9)
 			{
 				u = i / 10;
