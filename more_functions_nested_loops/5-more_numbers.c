@@ -12,7 +12,7 @@ void more_numbers(void)
 	int n;
 	int p;
 
-	for (p = 0; p <= 9; i++)
+	for (p = 0; p <= 9; p++)
 	{
 		for (i = 0; i <= 14 ; i++)
 		{
