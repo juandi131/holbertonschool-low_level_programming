@@ -1,8 +1,8 @@
 #include "main.h"
  /**
-  * print_most_numbers- jajdasdadaopdjaodajd
+  *print_most_numbers- Muchas gracias Palermo
   *
-  * Return: fsfsdfsdfsdfsfsfsfsdf
+  *Return: fsfsdfsdfsdfsfsfsfsdf
   */
 
 void print_most_numbers(void)
@@ -17,4 +17,5 @@ void print_most_numbers(void)
 		}
 	}
 	_putchar('\n');
+
 }
