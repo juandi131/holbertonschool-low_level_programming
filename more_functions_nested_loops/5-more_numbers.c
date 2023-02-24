@@ -9,8 +9,8 @@ void more_numbers(void)
 
 	int i;
 	int u;
-	int n
-		;
+	int n;
+
 	for (i = 0; i <= 9; i++)
 	{
 		for (i = 0; i <= 14 ; i++)
@@ -23,9 +23,9 @@ void more_numbers(void)
 			}
 			else
 				n = i % 10;
-
 			_putchar(n  + '0');
-			_putchar('\n');
+
 		}
+		_putchar('\n');
 	}
 }
