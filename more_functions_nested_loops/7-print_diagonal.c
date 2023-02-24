@@ -19,6 +19,7 @@ void print_diagonal(int n)
 		}
 	b = 92;
 	_putchar(b);
+	_putchar('\n');
 	}
 	else
 	{
