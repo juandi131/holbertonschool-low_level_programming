@@ -8,11 +8,11 @@
 
 int _isdigit(int c)
 {
-	char c;
-	if (c <= 9)
+
+	if (c <= 9 && c >= 0)
 	{
 		return (1);
 	}
-	else (c >= 32 && c <= 126) 
+	else 
 		return (0);
 }
