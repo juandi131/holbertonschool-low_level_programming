@@ -10,11 +10,11 @@ void print_array(int *a, int n)
 
 	for (c = 0; c < n; c++)
 	{
-		if (c = n - 2)
+		if (c == n - 2)
 			printf("%d, ", a[c]);
-		else 
-		printf("%d", a[c];
-	}
 
-	printf("\n");
+		else
+			printf("%d", a[c]);
+	}
+		printf("\n");
 }
