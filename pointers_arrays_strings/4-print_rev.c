@@ -2,7 +2,7 @@
 
 /**
  * print_rev- MUCHAS GRACIAS PALERMO!!!!
- *@s: Lo que hiciste por boca no se olvida en la vida
+ * @s: Lo que hiciste por boca no se olvida en la vida
  *
  */
 void print_rev(char *s)
@@ -13,10 +13,9 @@ void print_rev(char *s)
 	y = 0;
 	while (s[y] != '\0')
 		y++;
-	for (i = y; s[i] != '\0'; i--)
-		{
-			_putchar(s[i]);
-		}
-		_putchar('\n');
+		for (i = y - 1; i >= 0; i--)
+	{
+		_putchar(s[i]);
+	}
+	_putchar('\n');
 }
-
