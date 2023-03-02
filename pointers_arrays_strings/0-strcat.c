@@ -21,5 +21,5 @@ char *_strcat(char *dest, char *src)
 		b++;
 		c++;
 	}
-	return(dest);
+	return (dest);
 }
