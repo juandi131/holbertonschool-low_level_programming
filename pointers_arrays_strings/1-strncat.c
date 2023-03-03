@@ -4,7 +4,7 @@
  * @n: Muchas gracias Palermo
  * @dest: dest
  * @src: holasdasd:
- * Return: skayadsadadad
+ * Return: skayadsadadaddadasdadad
  */
 char *_strncat(char *dest, char *src, int n)
 {
