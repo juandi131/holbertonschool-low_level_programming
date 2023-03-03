@@ -3,7 +3,7 @@
  * *_strncat- hola
  * @n: Muchas gracias Palermo
  * @dest: dest
- * @src: hola
+ * @src: holasdasd:
  * Return: skay
  */
 char *_strncat(char *dest, char *src, int n)
