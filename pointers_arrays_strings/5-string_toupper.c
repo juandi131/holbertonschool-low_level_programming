@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * string_toupper- sadasdadsa
- * @a: dsdadsaddsad
+ * @a: dsdaeqewqedsaddsad
  * Return: ssadsadad
  */
 char *string_toupper(char *a)
@@ -12,6 +12,6 @@ char *string_toupper(char *a)
 	{
 		if (a[i]  >= 'a' && a[i] <= 'z')
 		a[i] = a[i] - 32;
-		return (a);
 	}
+	return (a);
 }
