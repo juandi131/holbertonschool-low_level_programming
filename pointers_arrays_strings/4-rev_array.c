@@ -2,7 +2,7 @@
 /**
  * reverse_array- asdadsad
  * @a: adasdsa
- * @n: asqeqedasaasdasdas
+ * @n: asqeedasaasdasdas
  */
 void reverse_array(int *a, int n)
 {
@@ -12,7 +12,7 @@ void reverse_array(int *a, int n)
 
 	t = n;
 	i = 0;
-	while (i < t)
+	while (i <= t)
 	{
 		no = a[t];
 		a[t] = a[i];
