@@ -2,12 +2,13 @@
 /**
  * reverse_array- asdadsad
  * @a: adasdsa
- * @n: asdasaa
+ * @n: asdasaasdasdas
  */
 void reverse_array(int *a, int n)
 {
 	int i;
 	int no;
+	int t;
 
 	t = n;
 	i = 0;
