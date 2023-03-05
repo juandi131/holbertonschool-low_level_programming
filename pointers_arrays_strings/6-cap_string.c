@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- **cap_string- fsdfdsfdsfs
- *@a: fsdfdsfdsf
- *Return: dasdasdasdasd
+ **cap_string- -
+ *@a: -
+ *Return: -
  */
 char *cap_string(char *a)
 {
@@ -29,6 +29,6 @@ char *cap_string(char *a)
 			}
 		}
 	}
-	return (a);
 	}
+	return (a);
 }
