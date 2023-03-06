@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- **_strpbrk- - 
+ **_strpbrk- -
  *@s: -
  *@accept: -
  *Return: -
