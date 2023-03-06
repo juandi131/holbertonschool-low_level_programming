@@ -3,7 +3,7 @@
  * *_strchr- -
  * @s: -
  * @c: --
- * Return: -
+ * Return: --
  */
 char *_strchr(char *s, char c)
 {
