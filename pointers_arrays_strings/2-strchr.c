@@ -2,7 +2,7 @@
 /**
  * *_strchr- -
  * @s: -
- * @c: -
+ * @c: --
  * Return: -
  */
 char *_strchr(char *s, char c)
@@ -20,5 +20,5 @@ char *_strchr(char *s, char c)
 			return ('\0');
 		}
 	}
-	return ('\0'');
+	return ('\0');
 }
