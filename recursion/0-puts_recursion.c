@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- *_puts_recursion- -
- *@s: -
- *Retunn: -
+ *_puts_recursion- This function prints the content of a string in reverse
+ *@s: This is a array 
  */
 void _puts_recursion(char *s)
 {
