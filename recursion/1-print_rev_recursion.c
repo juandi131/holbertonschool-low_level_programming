@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _puts_rev_recursion- -
- * @s: =
+ * @s: -
  */
 void _print_rev_recursion(char *s)
 {
