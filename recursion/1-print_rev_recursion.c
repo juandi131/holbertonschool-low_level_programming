@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _puts_recursion- -
+ * _puts_rev_recursion- -
  * @s: =
  */
-void _puts_recursion(char *s)
+void _puts_rev_recursion(char *s)
 {
 	if (s[0] == 0)
 	{
@@ -12,6 +12,6 @@ void _puts_recursion(char *s)
 	else
 	{
 		_putchar(s[1]);
-		_puts_recursion(&s[1]);
+		_puts_rev_recursion(&s[1]);
 	}
 }
