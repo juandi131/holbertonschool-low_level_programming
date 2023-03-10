@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * factorial- This function do factorial operations
- * @n: This is a variable
- * Return: Return a int 
+ * factorial- This function do factorial operations.
+ * @n: This is a variable.
+ * Return: Return a int.
  */
 int factorial(int n)
 {
-	if (n == '\0')
+	if (n != '\0')
 	{
 		return (0);
 	}
