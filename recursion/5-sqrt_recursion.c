@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _sqrt_recursion- Write a function that returns the natural square root of a number.
+ * _sqrt_recursion- Returns the natural square root of a number.
  * @n: Variable
  * Return: This an int.
  */
@@ -14,21 +14,21 @@ int _sqrt_recursion(int n)
 	{
 		return (0);
 	}
-	else 
+	else
 	{
 		return (creayrecursa(1, n));
 	}
 }
 /**
  * creayrecursa- this functions creates a variable.
- *@b:  This is a variable 
- *@a: This is a variable.
- *Return:  returns  a int 
+ *@b:  This is a variable
+ *@n: This is a variable.
+ *Return:  returns  a int
  */
 
 int creayrecursa(int b, int n)
-{	
-	if (b * b == n) 
+{
+	if (b * b == n)
 	{
 		return (b);
 	}
@@ -41,4 +41,4 @@ int creayrecursa(int b, int n)
 		return (-1);
 
 	}
-}	
+}
