@@ -13,6 +13,7 @@ int _sqrt_recursion(int n)
 	else if (n == 0)
 	{
 		return (0);
+	}
 	else 
 	{
 		return (creayrecursa(1, n));
