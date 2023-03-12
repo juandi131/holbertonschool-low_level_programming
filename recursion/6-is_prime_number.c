@@ -21,7 +21,7 @@ int is_prime_number(int n)
 	}
 }
 /**
- *encuentra_los_primeros- auxiliar function
+ *encuentra_los_primeos- auxiliar function
  *@b: This is a variable.
  *@n: this is a variable
  *Return: Returns a variable.
@@ -32,7 +32,7 @@ int encuentra_los_primos(int b, int n)
 	{
 		return (0);
 	}
-	else if (b < n)
+	else if (b < n - 1)
 	{
 		return (encuentra_los_primos(b + 1, n));
 	}
