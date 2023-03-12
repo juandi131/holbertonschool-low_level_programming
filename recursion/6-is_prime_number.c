@@ -21,7 +21,7 @@ int is_prime_number(int n)
 	}
 }
 /**
- *encuentra_los_primeos- auxiliar function
+ *encuentra_los_primos- auxiliar function
  *@b: This is a variable.
  *@n: this is a variable
  *Return: Returns a variable.
