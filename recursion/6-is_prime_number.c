@@ -26,7 +26,7 @@ int is_prime_number(int n)
  *@n: this is a variable
  *Return: Returns a variable.
  */
-int encuentra_los_primeros(int b, int n)
+int encuentra_los_primos(int b, int n)
 {
 	if (n % b == 0)
 	{
