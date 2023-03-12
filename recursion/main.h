@@ -8,3 +8,4 @@ int _sqrt_recursion(int n);
 int is_prime_number(int n);
 int _putchar(char c);
 int creayrecursa(int b, int n);
+int encuentra_los_primeros(int b, int n);
