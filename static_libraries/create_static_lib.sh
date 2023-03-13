@@ -1,2 +1,3 @@
 #!/bin/bash
-ar rc libmy.a *.o .
+gcc -c *.c
+ar rc libmy.a *.o 
