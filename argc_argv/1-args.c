@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- * main- print the lenght 
+ * main- print the lenght
  * @argv: -
  * @argc: -
- * Retunr: -
+ * Return: -
  */
 int main(int argc, char *argv[])
 {
-	printf("%d", argc);
+	printf("%d", argc -1);
 	(void)argv;
 	return (0);
-}	
+}
