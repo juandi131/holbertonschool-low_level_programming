@@ -1,2 +1,2 @@
 #!/bin/bash
-ar rc libutil.a *.o
+ar rc libmy.a *.o
