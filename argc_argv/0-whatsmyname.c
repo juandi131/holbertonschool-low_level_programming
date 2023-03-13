@@ -3,6 +3,7 @@
  * main- main
  *@argc: c
  *@argv: asd
+ *Return: return
  */
 int main(int argc, char *argv[])
 {
